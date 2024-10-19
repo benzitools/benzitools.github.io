@@ -29,7 +29,6 @@ For any inquiries, support, or feedback, please reach out via Telegram: [@benzi_
 
 ### APK Projects
 Currently updating...
-Our APK offerings include:
 - **GhostcamV10.24]**: Virtual Camera for Android (5~12).
 
   
