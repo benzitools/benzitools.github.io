@@ -3,7 +3,8 @@
 
 Welcome to **Benzitools**, a collection of tools, applications, and projects built with various technologies such as Python, C, C++, and Android APKs. Our platform offers both free and paid options, tailored to suit a variety of user needs.
 
-Official website: [Benzitools GitHub Page](https://github.com/benzitools/benzitools.github.io)
+Official website: [Benzitools GitHub Page](https://benzitools.github.io/)
+Benzitools's repository: [Repository](https://github.com/benzitools/benzitools.github.io)
 
 For any inquiries, support, or feedback, please reach out via Telegram: [@benzi_chat_bot](https://t.me/benzi_chat_bot).
 
@@ -28,18 +29,20 @@ For any inquiries, support, or feedback, please reach out via Telegram: [@benzi_
 
 ### APK Projects
 Our APK offerings include:
-- **[App Name 1]**: A free Android app with [describe features].
-- **[App Name 2]**: A paid Android app offering [describe premium features] and includes a trial version.
+- **GhostcamV10.24]**: Virtual Camera for Android (5~12).
+Currently updating...
   
 All APKs can be downloaded directly from the [Releases](https://github.com/benzitools/benzitools.github.io/releases) section.
 
 ### Python Projects
-- **[Python Project 1]**: A tool to [describe project].
-- **[Python Project 2]**: Advanced paid tool with additional features.
+- **[Deep Live]**: Real-time face swap for PC streaming or video calls.
+- **[Deep NoLive]**: Face swap from img/video.
+- **[Deep Live Mini]**: Real-time face swap for PC streaming or video calls.
+- **[Benzi GPT Free]**: Chat with multiple A.I models simultaneously in one window.
+Currently updating...
 
 ### C/C++ Projects
-- **[C/C++ Project 1]**: A free open-source library to [describe project].
-- **[C/C++ Project 2]**: A performance-driven application with [describe functionality].
+Currently updating...
 
 ## Installation
 
