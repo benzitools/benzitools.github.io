@@ -28,18 +28,19 @@ For any inquiries, support, or feedback, please reach out via Telegram: [@benzi_
 ## Projects
 
 ### APK Projects
+Currently updating...
 Our APK offerings include:
 - **GhostcamV10.24]**: Virtual Camera for Android (5~12).
-Currently updating...
+
   
 All APKs can be downloaded directly from the [Releases](https://github.com/benzitools/benzitools.github.io/releases) section.
 
 ### Python Projects
+Currently updating...
 - **[Deep Live]**: Real-time face swap for PC streaming or video calls.
 - **[Deep NoLive]**: Face swap from img/video.
 - **[Deep Live Mini]**: Real-time face swap for PC streaming or video calls.
 - **[Benzi GPT Free]**: Chat with multiple A.I models simultaneously in one window.
-Currently updating...
 
 ### C/C++ Projects
 Currently updating...
