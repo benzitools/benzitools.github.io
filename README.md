@@ -3,7 +3,7 @@
 
 Welcome to **Benzitools**, a collection of tools, applications, and projects built with various technologies such as Python, C, C++, and Android APKs. Our platform offers both free and paid options, tailored to suit a variety of user needs.
 
-Official website: [Benzitools GitHub Page](https://your-github-page-url)
+Official website: [Benzitools GitHub Page](https://github.com/benzitools/benzitools.github.io)
 
 For any inquiries, support, or feedback, please reach out via Telegram: [@benzi_chat_bot](https://t.me/benzi_chat_bot).
 
@@ -31,7 +31,7 @@ Our APK offerings include:
 - **[App Name 1]**: A free Android app with [describe features].
 - **[App Name 2]**: A paid Android app offering [describe premium features] and includes a trial version.
   
-All APKs can be downloaded directly from the [Releases](https://github.com/your-repository/releases) section.
+All APKs can be downloaded directly from the [Releases](https://github.com/benzitools/benzitools.github.io/releases) section.
 
 ### Python Projects
 - **[Python Project 1]**: A tool to [describe project].
@@ -44,14 +44,14 @@ All APKs can be downloaded directly from the [Releases](https://github.com/your-
 ## Installation
 
 For **APK Projects**:
-1. Download the APK from the [Releases](https://github.com/your-repository/releases) page.
+1. Download the APK from the [Releases](https://github.com/benzitools/benzitools.github.io/releases) page.
 2. Enable installation from unknown sources in your Android device's settings.
 3. Install the APK and follow the on-screen instructions.
 
 For **Python Projects**:
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/your-repository.git
+   git clone https://github.com/[NameOfRepository].git
    ```
 2. Install the required dependencies:
    ```bash
@@ -59,14 +59,14 @@ For **Python Projects**:
    ```
 3. Run the Python script:
    ```bash
-   python your_script.py
+   python start.py
    ```
 
 For **C/C++ Projects**:
 1. Follow the build instructions provided in each project's `README.md`.
 2. Compile the code using your preferred compiler:
    ```bash
-   gcc -o your_project your_project.c
+   gcc -o project project.c
    ```
 
 ## Usage
@@ -74,11 +74,6 @@ For **C/C++ Projects**:
 Each project comes with its own instructions, but here’s a general overview:
 - **APKs**: Once installed, simply launch the application from your device and follow the instructions within the app.
 - **Python and C/C++ Projects**: Refer to the detailed usage examples provided in each project’s specific repository.
-
-### Screenshots
-
-![Screenshot 1](https://your-link-to-screenshot1.png)
-![Screenshot 2](https://your-link-to-screenshot2.png)
 
 ## Pricing
 
