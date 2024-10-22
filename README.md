@@ -7,7 +7,7 @@ Official website: [Benzitools GitHub Page](https://benzitools.github.io/)
 
 Benzitools's repository: [Repository](https://github.com/benzitools/benzitools.github.io)
 
-For any inquiries, support, or feedback, please reach out via Telegram: [@benzi_chat_bot](https://t.me/benzi_chat_bot).
+For any inquiries, support, or feedback, please reach out via Telegram: [@benzitools_support](https://t.me/benzitools_support).
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -88,7 +88,7 @@ For more details about pricing and features, please visit the relevant project p
 
 ## Support
 
-Need help or have feedback? Contact us directly through Telegram: [@benzi_chat_bot](https://t.me/benzi_chat_bot).
+Need help or have feedback? Contact us directly through Telegram: [@benzitools_support](https://t.me/benzitools_support).
 
 We are always happy to assist with:
 - Installation issues
