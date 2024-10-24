@@ -1,5 +1,5 @@
 
-# Benzitools
+# 🛠️ Benzitools
 
 Welcome to **Benzitools**, a collection of tools, applications, and projects built with various technologies such as Python, C, C++, and Android APKs. Our platform offers both free and paid options, tailored to suit a variety of user needs.
 
@@ -9,7 +9,7 @@ Benzitools's repository: [Repository](https://github.com/benzitools/benzitools.g
 
 For any inquiries, support, or feedback, please reach out via Telegram: [@benzitools_support](https://t.me/benzitools_support).
 
-## Table of Contents
+## 📁 Table of Contents
 - [Introduction](#introduction)
 - [Projects](#projects)
   - [APK Projects](#apk-projects)
@@ -22,34 +22,34 @@ For any inquiries, support, or feedback, please reach out via Telegram: [@benzit
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## 📄 Introduction
 
 **Benzitools** is a versatile platform providing tools and software across various programming languages. Whether you're looking for an APK for your Android device, Python-based utilities, or robust applications developed in C/C++, Benzitools has something for everyone. Some projects are available for free, while others include advanced features available through a paid plan.
 
-## Projects
+## 🔧 Projects
 
-### APK Projects
+### 📁 APK Projects
 Currently updating...
 - **[GhostcamV10.24](https://github.com/benzitools/GhostCam)** : Virtual Camera for Android (5~12).
 
   
 All APKs can be downloaded directly from the [Releases](https://github.com/benzitools/benzitools.github.io/releases) section.
 
-### Module Magisk Projects:
+### 📁 Module Magisk Projects:
 
 - **[Benzi_ZG](https://github.com/benzitools/Benzi_ZG)** :  Module for Magisk - Support for hide root.
 
-### Python Projects
+### 📁 Python Projects
 Currently updating...
 - **[Deep Live](https://github.com/benzitools/DeepLive.V10.24)** : Real-time face swap for PC streaming or video calls.
 - **[Deep NoLive](https://github.com/benzitools/DeepNoLive.V10.24)** : Face swap from img/video.
 - **[Deep Live Mini](https://github.com/benzitools/DeepLiveMini.V10.24)** : Real-time face swap for PC streaming or video calls.
 - **[Benzi GPT Free](https://github.com/benzitools/Benzi-GPT-Free)** : Chat with multiple A.I models simultaneously in one window.
 
-### C/C++ Projects
+### 📁 C/C++ Projects
 Currently updating...
 
-## Installation
+## 💻 Installation
 
 For **APK Projects**:
 1. Download the APK from the [Releases](https://github.com/benzitools/benzitools.github.io/releases) page.
@@ -77,20 +77,20 @@ For **C/C++ Projects**:
    gcc -o project project.c
    ```
 
-## Usage
+## 📄 Usage
 
 Each project comes with its own instructions, but here’s a general overview:
 - **APKs**: Once installed, simply launch the application from your device and follow the instructions within the app.
 - **Python and C/C++ Projects**: Refer to the detailed usage examples provided in each project’s specific repository.
 
-## Pricing
+## 💰 Pricing
 
 - **Free Tier**: Access to the basic features across several APKs and projects.
 - **Paid Tier**: Unlock advanced features with a monthly subscription. A free trial is available for some premium APKs and software.
 
 For more details about pricing and features, please visit the relevant project pages or contact us via Telegram for custom offers.
 
-## Support
+## 📞 Support
 
 Need help or have feedback? Contact us directly through Telegram: [@benzitools_support](https://t.me/benzitools_support).
 
@@ -100,7 +100,7 @@ We are always happy to assist with:
 - Feature requests
 - General inquiries
 
-## Contributing
+## 📤 Contributing
 
 We welcome contributions to our open-source projects! Please follow these steps to contribute:
 
@@ -112,7 +112,7 @@ We welcome contributions to our open-source projects! Please follow these steps 
 
 Feel free to open an issue if you have any questions or ideas for improvements.
 
-## License
+## 📄 License
 
 All code in this repository is licensed under the **MIT License**. This means you can freely use, modify, and distribute the code with proper attribution. However, please note that some APKs and features are available under a paid plan.
 
