@@ -10,18 +10,18 @@ Benzitools's repository: [Repository](https://github.com/benzitools/benzitools.g
 For any inquiries, support, or feedback, please reach out via Telegram: [@benzitools_support](https://t.me/benzitools_support).
 
 ## 📁 Table of Contents
-- [Introduction](#introduction)
-- [Projects](#projects)
-  - [APK Projects](#apk-projects)
-  - [Module Magisk Projects](#Module-Magisk-Projects)
-  - [Python Projects](#python-projects)
-  - [C/C++ Projects](#cc-projects)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Pricing](#pricing)
-- [Support](#support)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction](#-introduction)
+- [Projects](#-projects)
+  - [APK Projects](#-apk-projects)
+  - [Module Magisk Projects](#-module-magisk-projects)
+  - [Python Projects](#-python-projects)
+  - [C/C++ Projects](#-cc-projects)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Pricing](#-pricing)
+- [Support](#-support)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 📄 Introduction
 
