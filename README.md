@@ -13,6 +13,7 @@ For any inquiries, support, or feedback, please reach out via Telegram: [@benzit
 - [Introduction](#introduction)
 - [Projects](#projects)
   - [APK Projects](#apk-projects)
+  - [Module Magisk Projects](#Module-Magisk-Projects)
   - [Python Projects](#python-projects)
   - [C/C++ Projects](#cc-projects)
 - [Installation](#installation)
@@ -35,7 +36,7 @@ Currently updating...
   
 All APKs can be downloaded directly from the [Releases](https://github.com/benzitools/benzitools.github.io/releases) section.
 
-### 📁 Module Magisk Projects:
+### 📁 Module Magisk Projects
 
 - **[Benzi_ZG](https://github.com/benzitools/Benzi_ZG)** :  Module for Magisk - Support for hide root.
 
