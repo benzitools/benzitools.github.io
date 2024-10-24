@@ -30,17 +30,21 @@ For any inquiries, support, or feedback, please reach out via Telegram: [@benzit
 
 ### APK Projects
 Currently updating...
-- **GhostcamV10.24]**: Virtual Camera for Android (5~12).
+- **GhostcamV10.24(https://github.com/benzitools/GhostCam)**: Virtual Camera for Android (5~12).
 
   
 All APKs can be downloaded directly from the [Releases](https://github.com/benzitools/benzitools.github.io/releases) section.
 
+### Module Magisk Projects:
+
+- **Benzi_ZG(https://github.com/benzitools/Benzi_ZG)**:  Module for Magisk - Support for hide root.
+
 ### Python Projects
 Currently updating...
-- **[Deep Live]**: Real-time face swap for PC streaming or video calls.
-- **[Deep NoLive]**: Face swap from img/video.
-- **[Deep Live Mini]**: Real-time face swap for PC streaming or video calls.
-- **[Benzi GPT Free]**: Chat with multiple A.I models simultaneously in one window.
+- **[Deep Live](https://github.com/benzitools/DeepLive.V10.24)**: Real-time face swap for PC streaming or video calls.
+- **[Deep NoLive](https://github.com/benzitools/DeepNoLive.V10.24)**: Face swap from img/video.
+- **[Deep Live Mini](https://github.com/benzitools/DeepLiveMini.V10.24)**: Real-time face swap for PC streaming or video calls.
+- **[Benzi GPT Free](https://github.com/benzitools/Benzi-GPT-Free)**: Chat with multiple A.I models simultaneously in one window.
 
 ### C/C++ Projects
 Currently updating...
