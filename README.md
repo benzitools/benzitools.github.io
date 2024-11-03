@@ -46,6 +46,7 @@ Currently updating...
 - **[Deep NoLive](https://github.com/benzitools/DeepNoLive.V10.24)** : Face swap from img/video.
 - **[Deep Live Mini](https://github.com/benzitools/DeepLiveMini.V10.24)** : Real-time face swap for PC streaming or video calls.
 - **[Benzi GPT Free](https://github.com/benzitools/Benzi-GPT-Free)** : Chat with multiple A.I models simultaneously in one window.
+- **[Deep Neo](https://github.com/benzitools/DeepNeo.V11.24)** : Real-time face swap for PC streaming or video calls.
 
 ### 📁 C/C++ Projects
 Currently updating...
