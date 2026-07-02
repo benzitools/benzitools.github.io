@@ -92,9 +92,7 @@ Each project comes with its own instructions, but here’s a general overview:
 
 For more details about pricing and features, please visit the relevant project pages or contact us via Telegram for custom offers.
 
-## 📞 Support
-
-Need help or have feedback? Contact us directly through Telegram: [@benzitools_support](https://t.me/benzitools_support).
+- [📢 **TELEGRAM CHANNEL** ➔](https://t.me/benzi_tools)
 
 We are always happy to assist with:
 - Installation issues
